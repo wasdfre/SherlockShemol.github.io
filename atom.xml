@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-06T03:47:57.434Z</updated>
+  <updated>2022-04-10T09:09:27.216Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,41 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://example.com/2022/03/15/%E5%8C%97%E9%82%AE%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97/"/>
-    <id>http://example.com/2022/03/15/%E5%8C%97%E9%82%AE%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97/</id>
-    <published>2022-03-15T09:33:18.206Z</published>
-    <updated>2022-04-06T03:47:57.434Z</updated>
-    
-    <content type="html"><![CDATA[<hr><p>title:北邮生存指南<br>date:2022-03-15 17:33:18<br>tags:test</p><hr>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;hr&gt;
-&lt;p&gt;title:北邮生存指南&lt;br&gt;date:2022-03-15 17:33:18&lt;br&gt;tags:test&lt;/p&gt;
-&lt;hr&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2022/03/15/hello-world/"/>
-    <id>http://example.com/2022/03/15/hello-world/</id>
+    <title>大二下课程简介</title>
+    <link href="http://example.com/2022/03/15/%E5%A4%A7%E4%BA%8C%E4%B8%8B%E8%AF%BE%E7%A8%8B%E7%AE%80%E4%BB%8B/"/>
+    <id>http://example.com/2022/03/15/%E5%A4%A7%E4%BA%8C%E4%B8%8B%E8%AF%BE%E7%A8%8B%E7%AE%80%E4%BB%8B/</id>
     <published>2022-03-15T08:49:43.668Z</published>
-    <updated>2022-03-15T08:49:43.668Z</updated>
+    <updated>2022-04-10T09:09:27.216Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="计算机原理与应用"><a href="#计算机原理与应用" class="headerlink" title="计算机原理与应用"></a>计算机原理与应用</h1><p>  课本是自编的，近两年出的，应该只能淘宝，19 级应该都卖 or 扔了。 这个课比较硬核，不是很好学，平时作业主要是课后题（答案见群文件），有占 30%的 实验部分，实验用的软件不是很容易安装，但实验代码都是现成的，简单改一改就可以，最 后要写报告。考试填空、简答考默写（参考群文件的部分资料），代码填空，结果判断参考 </p><h1 id="数字信号处理"><a href="#数字信号处理" class="headerlink" title="数字信号处理"></a>数字信号处理</h1><p>信号与系统的续集，第一章绪论，第二章是信号的复习与加强，重点是第三章，比较难。 期中考试考前三章，题目不是很简单，但群文件里老师的 PPT 上的例题很有参考价值，思 路比较清晰；第四章和第五章在期末各考一个答题，将近四十分，题目套路，相比前边简单 一些。课本不是王世一编著，但编书的老师（苏菲老师）都说不建议看书，看 PPT 就可以。 Dsp 是四大名补之一，但没那么可怕，题型相对固定。 </p><h1 id="概率论与数理统计"><a href="#概率论与数理统计" class="headerlink" title="概率论与数理统计"></a>概率论与数理统计</h1><p> 之后的课程基本都离不开概率论，考研也考概率论，这门课极其重要，课本是浙大那本， 前边几章是概率论部分，后边是数理统计。考试题目很活，所以建议大家不要拘泥于课后题， 多找一些题练一练，把知识学活。（假期也可以学一学后边的随机过程部分第九章开始，大 三的课基本都会用到，反而数理统计用的稍少一些） </p><h1 id="程序设计综合实验"><a href="#程序设计综合实验" class="headerlink" title="程序设计综合实验"></a>程序设计综合实验</h1><p> 一学期做一个项目，不同老师要求程度可能不同，不过一般都，嗯，面向 github、面向 CSDN 编程，可以借此机会尝试一下自己感兴趣的领域。会有四个报告(需求分析、概要设 计、详细设计、验收文档或 PPT) 不建议选太难的题目。 </p><h1 id="毛概"><a href="#毛概" class="headerlink" title="毛概"></a>毛概</h1><p>考前认真背书，四学分，期中 20%做视频（类比思修）,期末占比 40%，考试题背了就会， 选择题老师也会强调一部分（平时 or 考前） </p><h1 id="项目管理与经济决策"><a href="#项目管理与经济决策" class="headerlink" title="项目管理与经济决策"></a>项目管理与经济决策</h1><p> 老师讲的比较有意思，一共上三次课，剩余就是刷网课和期末论文，没有压力 </p><h1 id="形势与政策"><a href="#形势与政策" class="headerlink" title="形势与政策"></a>形势与政策</h1><p> 提一个小的技巧，信息门户会在开课前很久发一个课程内容介绍的通知，里边把三个课 题的内容基本都写很清楚了，比百度搜的更有参考价值。 </p><h1 id="信息与通信前沿"><a href="#信息与通信前沿" class="headerlink" title="信息与通信前沿"></a>信息与通信前沿</h1><p>通识课，了解一些专业学科的基本知识，最后论文（到处参考）成绩一般都没问题，不 要有太大压力。 </p><h1 id="毛概实践"><a href="#毛概实践" class="headerlink" title="毛概实践"></a>毛概实践</h1><p> 第六周左右布置，题目自选，一学分，可以自己调研一个感兴趣的话题。 </p><h1 id="选修课"><a href="#选修课" class="headerlink" title="选修课"></a>选修课</h1><p> 选修包括英语和体育、专业选修，除了体育在之前的推送里都提到了，写的还算详细， 请自行查阅。 总结 不知道今年培养方案变化多少，比较难的课：计原、dsp、概率论；耗费精力的：几个 论文、程序设计。 选择课里边计网（英文书，估计也看不懂）比较难学，成绩不确定性较大，这门课比较 有用；计算方法（课本：数值计算）平时比较耗头发但是考试会发一个复习 PPT，认真学分 数会很高；数据库（数据库系统概论）有题库，会考原题，思维和数据结构类似；离散简单， 基本不会占用什么时间，老师讲的很细致，成绩会存在一些不确定性；现代物理选的人比较 少，量子物理，如果感兴趣，可以上。 数学实验和工程计算讲的内容类似，不用课本。 群文件里，资料还是基本够用的，（课本、PPT、资料基本都有）这个文档写的比较粗糙， 但群文件和推送、课程大纲文件还是很丰富的。 </p><hr><p>祝大家一切顺利</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h1 id=&quot;计算机原理与应用&quot;&gt;&lt;a href=&quot;#计算机原理与应用&quot; class=&quot;headerlink&quot; title=&quot;计算机原理与应用&quot;&gt;&lt;/a&gt;计算机原理与应用&lt;/h1&gt;&lt;p&gt;  课本是自编的，近两年出的，应该只能淘宝，19 级应该都卖 or 扔了。 这个课比较硬核，</summary>
       
     
     
