@@ -104,7 +104,7 @@ theme: melody
 deploy:
   type: 'git'
   repo: https://github.com/SherlockShemol/SherlockShemol.github.io.git
-  branch: yingsheng
+  branch: master
 
 
 #微信小程序API
